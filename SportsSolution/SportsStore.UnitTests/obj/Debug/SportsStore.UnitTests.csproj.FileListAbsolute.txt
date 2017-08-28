@@ -1,0 +1,7 @@
+C:\Users\Ion C#\Desktop\chapter 7\SportsSolution\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
+C:\Users\Ion C#\Desktop\chapter 7\SportsSolution\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
+C:\Users\Ion C#\Desktop\chapter 7\SportsSolution\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ion C#\Desktop\chapter 7\SportsSolution\SportsStore.UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Ion C#\Desktop\chapter 7\SportsSolution\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Ion C#\Desktop\chapter 7\SportsSolution\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
+C:\Users\Ion C#\Desktop\chapter 7\SportsSolution\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
